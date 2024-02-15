@@ -1,6 +1,3 @@
 this is 1 code
-<<<<<<< HEAD
 this my code
-=======
 this is second line of code
->>>>>>> 790e3b593c9360470a9d21ebd856068966e1fa22
